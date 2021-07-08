@@ -3,3 +3,9 @@ https://ytdl-org.github.io/youtube-dl/download.html
  Microsoft Visual C++ 2010 Service Pack 1 Redistributable Package (x86) and 
 
 youtube-dl -i youtube list 地址
+
+
+来自“SyS Mandarin”上传的内容
+
+https://www.youtube.com/playlist?list=UUUjFsQAUUS1IFM7oyUXeB1g
+
