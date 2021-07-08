@@ -1,0 +1,11 @@
+https://drive.google.com/file/d/1sJ8WR7DMSkLOg9_6rQ0oXjXPsfnHFBxZ/view
+https://moon-half.info/p/2993
+https://www.youtube.com/watch?v=OZ5Jg--8bWY
+
+
+
+youtube-dl -i https://www.youtube.com/channel/UCUjFsQAUUS1IFM7oyUXeB1g
+
+設置中文
+
+
